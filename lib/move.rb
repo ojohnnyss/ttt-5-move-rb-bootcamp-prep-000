@@ -11,5 +11,5 @@ puts 'Welcome to Tic Tac Toe!'
 puts 'Where would you like to go?'
 
 def input_to_index()
-  
+  index = gets.to_i
 end
