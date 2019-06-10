@@ -18,3 +18,5 @@ end
  def move(board, user_input, default = 'X')
    
  end
+ 
+ move(board, 1,"X")
