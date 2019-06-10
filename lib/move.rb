@@ -19,4 +19,4 @@ end
    
  end
  
- n = move(board, 0,"X")
+ n = move(board, 1,"X")
