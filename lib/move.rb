@@ -10,6 +10,6 @@ end
 puts 'Welcome to Tic Tac Toe!'
 puts 'Where would you like to go?'
 
-def input_to_index()
+def input_to_index(user_input)
   user_input = gets.to_i
 end
