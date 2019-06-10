@@ -19,4 +19,4 @@ end
    
  end
  
- move(board[0], 1,"X")
+ move(board, 0,"X")
