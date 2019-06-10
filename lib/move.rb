@@ -16,7 +16,7 @@ def input_to_index(user_input)
 end
  
  def move(board, user_input, default = 'X')
-   board[user_input] = "O"
+   board[user_input] = "X"
  end
  
  move(board, 1,"X")
