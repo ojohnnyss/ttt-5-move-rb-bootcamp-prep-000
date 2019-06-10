@@ -20,3 +20,4 @@ end
  end
  
  move(board, 1,"X")
+ move(board, 5, "O")
